@@ -1,1 +1,0 @@
-ALTER TABLE enrollments ADD COLUMN token_update_tally INTEGER NOT NULL DEFAULT 1;
